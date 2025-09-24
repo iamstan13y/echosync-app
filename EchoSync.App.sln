@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36203.30 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EchoSync.App", "EchoSync.App\EchoSync.App.csproj", "{EAD4F911-7CEE-4AFB-8B25-A1683D97991D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAD4F911-7CEE-4AFB-8B25-A1683D97991D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAD4F911-7CEE-4AFB-8B25-A1683D97991D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAD4F911-7CEE-4AFB-8B25-A1683D97991D}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{EAD4F911-7CEE-4AFB-8B25-A1683D97991D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAD4F911-7CEE-4AFB-8B25-A1683D97991D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAD4F911-7CEE-4AFB-8B25-A1683D97991D}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E4FBEF1-77A4-4741-848B-E383A87A7DFD}
+	EndGlobalSection
+EndGlobal
